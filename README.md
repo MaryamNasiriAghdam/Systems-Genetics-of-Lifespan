@@ -1,14 +1,16 @@
 # Systems Genetics of Lifespan and Senescence in *Drosophila melanogaster*
 
 **Authors:**  
-Maryam Nasiri Aghdam^1^, Desireé Unselt^2,3^, Maria Adonay^1^, Tatania V. Morozova^2,4^, Gunjan H. Arya^2,5^, Lavanya Turlapati^2^, Vijay Shankar^1^, Robert R. H. Anholt^1,2,6^, Trudy F. C. Mackay^1,2,6^
+Maryam Nasiri Aghdam<sup>1</sup>, Desireé Unselt<sup>2,3</sup>, Maria Adonay<sup>1</sup>, Tatania V. Morozova<sup>2,4</sup>, Gunjan H. Arya<sup>2,5</sup>, Lavanya Turlapati<sup>2</sup>, Vijay Shankar<sup>1</sup>, Robert R. H. Anholt<sup>1,2,6</sup>, Trudy F. C. Mackay<sup>1,2,6</sup>  
 
-^1^ Center for Human Genetics, Clemson University, Greenwood, SC, USA.  
-^2^ Program in Genetics, W. M. Keck Center for Behavioral Biology and Department of Biological Sciences, North Carolina State University, Raleigh NC 27695, USA
-^3^ Labcorp, 3601 Davis Drive, Morrisville, NC 27560
-^4^ BioSkryb Genomics, 2810 Meridian Parkway, Suite 110, Durham NC 27713
-^5^ Life Edit Therapeutics, 300 Morrise Street, Suite 300, Durham NC 27701
-^6^ Department of Genetics and Biochemistry, Clemson University, Clemson, SC, USA
+**Affiliations:**  
+<sup>1</sup> Center for Human Genetics, Clemson University, Greenwood, SC, USA  
+<sup>2</sup> Program in Genetics, W. M. Keck Center for Behavioral Biology and Department of Biological Sciences, North Carolina State University, Raleigh, NC 27695, USA  
+<sup>3</sup> Labcorp, 3601 Davis Drive, Morrisville, NC 27560, USA  
+<sup>4</sup> BioSkryb Genomics, 2810 Meridian Parkway, Suite 110, Durham, NC 27713, USA  
+<sup>5</sup> Life Edit Therapeutics, 300 Morrise Street, Suite 300, Durham, NC 27701, USA  
+<sup>6</sup> Department of Genetics and Biochemistry, Clemson University, Clemson, SC, USA  
+
 
 
 ---
